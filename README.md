@@ -1,5 +1,5 @@
 # About Me:
-🇮🇳 Final-year B.Tech in CSE (Data Science) | Data • AI • Web Dev
+🇮🇳 Final-year B.Tech in CSE (Data Science) student @Christ University | Data • AI • Web Dev
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomjimmy/)
